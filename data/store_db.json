@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": "draft_skate_01",
+      "name": "STICKERS Skateboard",
+      "slug": "stickers-skateboard",
+      "description": "Deck de skate STICKERS® fabricado em maple canadiano de 7 camadas, concavidade média para street e skatepark.",
+      "category": "skateboards",
+      "collection": "new-drops",
+      "price": 0,
+      "images": [],
+      "colors": [
+        {
+          "name": "Raw Maple / Black",
+          "hex": "#222222"
+        }
+      ],
+      "sizes": [
+        "8.0\"",
+        "8.25\""
+      ],
+      "stockByVariant": {
+        "8.0\"": 0,
+        "8.25\"": 0
+      },
+      "isPublished": false,
+      "isFeatured": false,
+      "fabricFit": "Madeira Canadiana 7-ply, concave médio, lixa não incluída.",
+      "deckDimensions": "8.0\" x 31.75\"",
+      "deckMaterial": "7-ply Canadian Hard Rock Maple",
+      "deckType": "Street & Park Deck",
+      "brand": "STICKERS®",
+      "createdAt": "2026-10-30T17:13:42.948Z",
+      "updatedAt": "2026-10-30T17:13:42.948Z"
+    }
+  ],
+  "config": {
+    "whatsappNumber": "",
+    "careMessagePt": "Olá STICKERS! Gostaria de confirmar a disponibilidade e saber como proceder com o pagamento por M-Pesa ou e-Mola.",
+    "careMessageEn": "Hello STICKERS! I would like to verify item availability and proceed with payment via M-Pesa or e-Mola.",
+    "instagramUrl": "https://www.instagram.com/lamar_rr67/",
+    "instagramActive": true,
+    "tiktokUrl": "",
+    "tiktokActive": false,
+    "youtubeUrl": "",
+    "youtubeActive": false,
+    "currency": "MT",
+    "city": "Maputo",
+    "country": "Moçambique"
+  },
+  "feedback": [
+    {
+      "id": "fb_1793380446847_22xh",
+      "name": "Afonso",
+      "email": "afonso@street.mz",
+      "category": "Sugestão",
+      "message": "Adoro o novo design em off-white e os novos shapes de skate!",
+      "status": "unread",
+      "createdAt": "2026-10-30T17:14:06.847Z"
+    }
+  ]
+}

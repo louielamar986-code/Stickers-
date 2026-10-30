@@ -1,0 +1,6 @@
+{
+  "name": "STICKERS® Official Store",
+  "description": "Loja online oficial da STICKERS®. American Streetwear, Skate & Underground Fashion em Moçambique e Internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
